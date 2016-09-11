@@ -6,7 +6,7 @@ $npm install --save sigmafy
 ```
 ### Usage
 ```js
-var sigmafy = require(sigmafy);
+var sigmafy = require("sigmafy");
 console.log(sigmafy(1,4,"n+2"));
 ```
 ### ISC License (ISC)
