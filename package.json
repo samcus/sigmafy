@@ -1,0 +1,28 @@
+{
+  "name": "sigmafy",
+  "version": "0.0.1",
+  "description": "Resolves mathematical sigma summations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samcus/sigmafy.git"
+  },
+  "keywords": [
+    "math",
+    "sigma",
+    "summation"
+  ],
+  "author": "Samuel Anthony Custer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samcus/sigmafy/issues"
+  },
+  "homepage": "https://github.com/samcus/sigmafy#readme",
+  "devDependencies": {
+    "istanbul": "^0.4.5",
+    "tape": "^4.6.0"
+  }
+}
