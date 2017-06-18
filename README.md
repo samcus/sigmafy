@@ -1,6 +1,8 @@
 # Sigmafy
 Resolves mathematical sigma summations
 
+[![CircleCI](https://circleci.com/gh/samcus/sigmafy.svg?style=svg)](https://circleci.com/gh/samcus/sigmafy)
+
 [![https://nodei.co/npm/sigmafy.png?downloads=true&downloadRank=true&stars=true](https://nodei.co/npm/sigmafy.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/sigmafy)
 
 ### Installation
